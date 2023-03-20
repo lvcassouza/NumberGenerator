@@ -21,3 +21,4 @@ An application where I just wanted to put into practice the creation of random n
 
 Contributions are welcome! Feel free to submit a pull request if you have any improvements or bug fixes for the app.
 
+# Issues
